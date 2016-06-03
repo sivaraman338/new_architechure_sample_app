@@ -1,0 +1,23 @@
+Successfully installed sshkit-1.10.0
+Successfully installed airbrussh-1.0.2
+
+     ___   _   ___ ___ ___ _____ ___    _   _  _  ___
+    / __| /_\ | _ \_ _/ __|_   _| _ \  /_\ | \| |/ _ \
+   | (__ / _ \|  _/| |\__ \ | | |   / / _ \| .` | (_) |
+    \___/_/ \_\_| |___|___/ |_| |_|_\/_/ \_\_|\_|\___/
+
+    Learn about our web-based collaboration and
+    automation platform for Capistrano: hrw.io/auto-cap
+
+Successfully installed capistrano-harrow-0.5.1
+Successfully installed capistrano-3.5.0
+Parsing documentation for sshkit-1.10.0
+Installing ri documentation for sshkit-1.10.0
+Parsing documentation for airbrussh-1.0.2
+Installing ri documentation for airbrussh-1.0.2
+Parsing documentation for capistrano-harrow-0.5.1
+Installing ri documentation for capistrano-harrow-0.5.1
+Parsing documentation for capistrano-3.5.0
+Installing ri documentation for capistrano-3.5.0
+Done installing documentation for sshkit, airbrussh, capistrano-harrow, capistrano after 2 seconds
+4 gems installed
