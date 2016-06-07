@@ -2,10 +2,10 @@
 set :stages, %w(staging production)
 set :default_stage, "production"
 set :application, "sample_app"
-set :repository,  "git@github.com:sivaraman338/new_architechure.git"
+set :repository,  "https://github.com/sivaraman338/new_architechure_sample_app.git"
 set :deploy_to, "/home/subramani/Documents/SampleApp/"
 set :scm, :git
-set :branch, "new_architechure"
+set :branch, "new_architechure_sample_app"
 #set :user, "siva"
 #set :group, "test1234"
 set :use_sudo, false
